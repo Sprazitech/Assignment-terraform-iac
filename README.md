@@ -1,4 +1,4 @@
-**1. Install Terraform and configure it to work with AWS.**
+~**1. Install Terraform and configure it to work with AWS.**
 
   **Steps:**
   
@@ -9,6 +9,13 @@
        access key
        secret key
        region
+
+
+
+
+
+![Task](Photos/Aws_config.JPG)
+
 
 
 
@@ -144,3 +151,25 @@ provider "aws" {
     terraform init
     terraform plan
     terraform apply
+
+
+
+
+
+
+![Task](Photos/instance_test.JPG)
+
+
+
+
+
+
+![Task](Photos/bucket_test.JPG)
+
+
+
+
+
+
+
+![Task](Photos/web_sg.JPG)
