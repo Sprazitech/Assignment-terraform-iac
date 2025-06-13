@@ -4,7 +4,7 @@
   
   i. Install terraform.
   
-  ii. Go to Management console to get your access key and secret key for AWS configuration.
+  ii. Go to Management console to get your access key ID and secret access key for AWS configuration.
   
   iii. Go to AWS CLI and imput:
        aws configure
